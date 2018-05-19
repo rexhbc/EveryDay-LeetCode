@@ -63,3 +63,40 @@ class Solution {
         return result;
     }
 }
+
+/**
+ * Morris way of inOrder
+ * Time: O(N)
+ * Space: O(1)
+ */
+class Solution {
+    public List<Integer> inorderTraversal(TreeNode root) {
+        List<Integer> inOrder = new ArrayList<>();
+        if (root == null){
+            return inOrder;
+        }
+        
+        while (root != null){
+            if (root.left == null){
+                inOrder.add(root.val);
+                root = root.right;
+            } else {
+                // find the inorder predecessor 
+                TreeNode cur = root.left;
+                while (cur.right != null && cur.right != root) cur = cur.right;
+                
+                if (cur.right == null){
+                    cur.right = root;
+                    root = root.left;
+                }
+                else {
+                    inOrder.add(root.val);
+                    cur.right = null;
+                    root = root.right;
+                }
+            }
+        }
+        
+        return inOrder;
+    }
+}

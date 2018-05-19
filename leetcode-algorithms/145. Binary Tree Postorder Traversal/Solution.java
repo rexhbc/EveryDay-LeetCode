@@ -65,3 +65,42 @@ class Solution {
         return result;
     }
 }
+
+/**
+ * Morris way of postOrder
+ * Time: O(N)
+ * Space: O(1)
+ */
+class Solution {
+    public List<Integer> postorderTraversal(TreeNode root) {
+        
+        List<Integer> postOrder = new ArrayList<>();
+        if (root == null){
+            return postOrder;
+        }
+        
+        while (root != null){
+            if (root.right == null){
+                postOrder.add(root.val);
+                root = root.left;
+            } else {
+                
+                TreeNode cur = root.right;
+                while (cur.left != null && cur.left != root) cur = cur.left;
+                
+                if (cur.left == root){
+                    cur.left = null;
+                    root = root.left;
+                }
+                else {
+                    postOrder.add(root.val);
+                    cur.left = root;
+                    root = root.right;
+                }
+            }
+        }
+        
+        Collections.reverse(postOrder);
+        return postOrder;
+    }
+}
