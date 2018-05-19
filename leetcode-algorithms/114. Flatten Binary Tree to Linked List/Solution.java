@@ -41,3 +41,37 @@ class Solution {
     }
     
 }
+
+/**
+ * Morris Algorithm
+ * Time: O(N)
+ * Space:O(1)
+ */
+class Solution {
+    public void flatten(TreeNode root) {
+        if (root == null){
+            return;
+        }
+        
+        while (root != null){
+            if (root.left == null){
+                root = root.right;
+            } else {
+                
+                TreeNode cur = root.left;
+                while (cur.right != null && cur.right != root) cur = cur.right;
+                
+                if (cur.right == null){
+                    cur.right = root;
+                    root = root.left;
+                }
+                else {
+                    cur.right = root.right;
+                    root.right = root.left;
+                    root.left = null;
+                }
+            }
+        }
+    }
+    
+}
