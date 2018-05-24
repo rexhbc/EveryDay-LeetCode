@@ -1,11 +1,11 @@
 # 秋招FLAG offer全都要！
-Until 2018-05-24 01:35:29, I have solved **43** / **754** problems while **133** are still locked.
+Until 2018-05-24 14:07:18, I have solved **48** / **754** problems while **133** are still locked.
 
 Completion statistic: 
 1. JavaScript: 0 
 2. Python: 0
 3. C++: 0
-4. Java: 43
+4. Java: 48
 
 Note: :lock: means you need to buy a book from LeetCode
 
@@ -124,8 +124,8 @@ Note: :lock: means you need to buy a book from LeetCode
 |109|[Convert Sorted List to Binary Search Tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/description/) |Medium|To Do|To Do|To Do|To Do|
 |110|[Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/description/) |Easy|To Do|To Do|To Do|To Do|
 |111|[Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/description/) |Easy|To Do|To Do|To Do|To Do|
-|112|[Path Sum](https://leetcode.com/problems/path-sum/description/) |Easy|To Do|To Do|To Do|To Do|
-|113|[Path Sum II](https://leetcode.com/problems/path-sum-ii/description/) |Medium|To Do|To Do|To Do|To Do|
+|112|[Path Sum](https://leetcode.com/problems/path-sum/description/) |Easy|To Do|To Do|To Do|[Java](https://github.com/rexhbc/EveryDay-LeetCode/blob/master/leetcode-algorithms/112.%20Path%20Sum/Solution.java)|
+|113|[Path Sum II](https://leetcode.com/problems/path-sum-ii/description/) |Medium|To Do|To Do|To Do|[Java](https://github.com/rexhbc/EveryDay-LeetCode/blob/master/leetcode-algorithms/113.%20Path%20Sum%20II/Solution.java)|
 |114|[Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/description/) |Medium|To Do|To Do|To Do|[Java](https://github.com/rexhbc/EveryDay-LeetCode/blob/master/leetcode-algorithms/114.%20Flatten%20Binary%20Tree%20to%20Linked%20List/Solution.java)|
 |115|[Distinct Subsequences](https://leetcode.com/problems/distinct-subsequences/description/) |Hard|To Do|To Do|To Do|To Do|
 |116|[Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/description/) |Medium|To Do|To Do|To Do|[Java](https://github.com/rexhbc/EveryDay-LeetCode/blob/master/leetcode-algorithms/116.%20Populating%20Next%20Right%20Pointers%20in%20Each%20Node/Solution.java)|
@@ -136,7 +136,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |121|[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/) |Easy|To Do|To Do|To Do|To Do|
 |122|[Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/description/) |Easy|To Do|To Do|To Do|To Do|
 |123|[Best Time to Buy and Sell Stock III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/description/) |Hard|To Do|To Do|To Do|To Do|
-|124|[Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/description/) |Hard|To Do|To Do|To Do|To Do|
+|124|[Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/description/) |Hard|To Do|To Do|To Do|[Java](https://github.com/rexhbc/EveryDay-LeetCode/blob/master/leetcode-algorithms/124.%20Binary%20Tree%20Maximum%20Path%20Sum/Solution.java)|
 |125|[Valid Palindrome](https://leetcode.com/problems/valid-palindrome/description/) |Easy|To Do|To Do|To Do|To Do|
 |126|[Word Ladder II](https://leetcode.com/problems/word-ladder-ii/description/) |Hard|To Do|To Do|To Do|To Do|
 |127|[Word Ladder](https://leetcode.com/problems/word-ladder/description/) |Medium|To Do|To Do|To Do|To Do|
@@ -425,7 +425,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |434|[Number of Segments in a String](https://leetcode.com/problems/number-of-segments-in-a-string/description/) |Easy|To Do|To Do|To Do|To Do|
 |435|[Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/description/) |Medium|To Do|To Do|To Do|To Do|
 |436|[Find Right Interval](https://leetcode.com/problems/find-right-interval/description/) |Medium|To Do|To Do|To Do|To Do|
-|437|[Path Sum III](https://leetcode.com/problems/path-sum-iii/description/) |Easy|To Do|To Do|To Do|To Do|
+|437|[Path Sum III](https://leetcode.com/problems/path-sum-iii/description/) |Easy|To Do|To Do|To Do|[Java](https://github.com/rexhbc/EveryDay-LeetCode/blob/master/leetcode-algorithms/437.%20Path%20Sum%20III/Solution.java)|
 |438|[Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/description/) |Easy|To Do|To Do|To Do|[Java](https://github.com/rexhbc/EveryDay-LeetCode/blob/master/leetcode-algorithms/438.%20Find%20All%20Anagrams%20in%20a%20String/Solution.java)|
 |439|[Ternary Expression Parser](https://leetcode.com/problems/ternary-expression-parser/description/) :lock:|Medium|To Do|To Do|To Do|To Do|
 |440|[K-th Smallest in Lexicographical Order](https://leetcode.com/problems/k-th-smallest-in-lexicographical-order/description/) |Hard|To Do|To Do|To Do|To Do|
@@ -604,7 +604,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |663|[Equal Tree Partition](https://leetcode.com/problems/equal-tree-partition/description/) :lock:|Medium|To Do|To Do|To Do|To Do|
 |664|[Strange Printer](https://leetcode.com/problems/strange-printer/description/) |Hard|To Do|To Do|To Do|To Do|
 |665|[Non-decreasing Array](https://leetcode.com/problems/non-decreasing-array/description/) |Easy|To Do|To Do|To Do|To Do|
-|666|[Path Sum IV](https://leetcode.com/problems/path-sum-iv/description/) :lock:|Medium|To Do|To Do|To Do|To Do|
+|666|[Path Sum IV](https://leetcode.com/problems/path-sum-iv/description/) :lock:|Medium|To Do|To Do|To Do|[Java](https://github.com/rexhbc/EveryDay-LeetCode/blob/master/leetcode-algorithms/666.%20Path%20Sum%20IV/Solution.java)|
 |667|[Beautiful Arrangement II](https://leetcode.com/problems/beautiful-arrangement-ii/description/) |Medium|To Do|To Do|To Do|To Do|
 |668|[Kth Smallest Number in Multiplication Table](https://leetcode.com/problems/kth-smallest-number-in-multiplication-table/description/) |Hard|To Do|To Do|To Do|[Java](https://github.com/rexhbc/EveryDay-LeetCode/blob/master/leetcode-algorithms/668.%20Kth%20Smallest%20Number%20in%20Multiplication%20Table/Solution.java)|
 |669|[Trim a Binary Search Tree](https://leetcode.com/problems/trim-a-binary-search-tree/description/) |Easy|To Do|To Do|To Do|To Do|
