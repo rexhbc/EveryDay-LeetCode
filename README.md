@@ -1,11 +1,11 @@
 # 秋招FLAG offer全都要！
-Until 2018-05-27 16:30:06, I have solved **55** / **758** problems while **133** are still locked.
+Until 2018-05-29 19:37:54, I have solved **63** / **758** problems while **133** are still locked.
 
 Completion statistic: 
 1. JavaScript: 0 
 2. Python: 0
 3. C++: 0
-4. Java: 55
+4. Java: 63
 
 Note: :lock: means you need to buy a book from LeetCode
 
@@ -34,7 +34,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |019|[Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/) |Medium|To Do|To Do|To Do|[Java](https://github.com/rexhbc/EveryDay-LeetCode/blob/master/leetcode-algorithms/019.%20Remove%20Nth%20Node%20From%20End%20of%20List/Solution.java)|
 |020|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/description/) |Easy|To Do|To Do|To Do|To Do|
 |021|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/description/) |Easy|To Do|To Do|To Do|To Do|
-|022|[Generate Parentheses](https://leetcode.com/problems/generate-parentheses/description/) |Medium|To Do|To Do|To Do|To Do|
+|022|[Generate Parentheses](https://leetcode.com/problems/generate-parentheses/description/) |Medium|To Do|To Do|To Do|[Java](https://github.com/rexhbc/EveryDay-LeetCode/blob/master/leetcode-algorithms/022.%20Generate%20Parentheses/Solution.java)|
 |023|[Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/description/) |Hard|To Do|To Do|To Do|[Java](https://github.com/rexhbc/EveryDay-LeetCode/blob/master/leetcode-algorithms/023.%20Merge%20k%20Sorted%20Lists/Solution.java)|
 |024|[Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/description/) |Medium|To Do|To Do|To Do|To Do|
 |025|[Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/description/) |Hard|To Do|To Do|To Do|To Do|
@@ -51,7 +51,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |036|[Valid Sudoku](https://leetcode.com/problems/valid-sudoku/description/) |Medium|To Do|To Do|To Do|To Do|
 |037|[Sudoku Solver](https://leetcode.com/problems/sudoku-solver/description/) |Hard|To Do|To Do|To Do|To Do|
 |038|[Count and Say](https://leetcode.com/problems/count-and-say/description/) |Easy|To Do|To Do|To Do|To Do|
-|039|[Combination Sum](https://leetcode.com/problems/combination-sum/description/) |Medium|To Do|To Do|To Do|To Do|
+|039|[Combination Sum](https://leetcode.com/problems/combination-sum/description/) |Medium|To Do|To Do|To Do|[Java](https://github.com/rexhbc/EveryDay-LeetCode/blob/master/leetcode-algorithms/039.%20Combination%20Sum/Solution.java)|
 |040|[Combination Sum II](https://leetcode.com/problems/combination-sum-ii/description/) |Medium|To Do|To Do|To Do|To Do|
 |041|[First Missing Positive](https://leetcode.com/problems/first-missing-positive/description/) |Hard|To Do|To Do|To Do|To Do|
 |042|[Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/description/) |Hard|To Do|To Do|To Do|[Java](https://github.com/rexhbc/EveryDay-LeetCode/blob/master/leetcode-algorithms/042.%20Trapping%20Rain%20Water/Solution.java)|
@@ -140,7 +140,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |125|[Valid Palindrome](https://leetcode.com/problems/valid-palindrome/description/) |Easy|To Do|To Do|To Do|To Do|
 |126|[Word Ladder II](https://leetcode.com/problems/word-ladder-ii/description/) |Hard|To Do|To Do|To Do|To Do|
 |127|[Word Ladder](https://leetcode.com/problems/word-ladder/description/) |Medium|To Do|To Do|To Do|To Do|
-|128|[Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/description/) |Hard|To Do|To Do|To Do|To Do|
+|128|[Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/description/) |Hard|To Do|To Do|To Do|[Java](https://github.com/rexhbc/EveryDay-LeetCode/blob/master/leetcode-algorithms/128.%20Longest%20Consecutive%20Sequence/Solution.java)|
 |129|[Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/description/) |Medium|To Do|To Do|To Do|To Do|
 |130|[Surrounded Regions](https://leetcode.com/problems/surrounded-regions/description/) |Medium|To Do|To Do|To Do|To Do|
 |131|[Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/description/) |Medium|To Do|To Do|To Do|To Do|
@@ -231,8 +231,8 @@ Note: :lock: means you need to buy a book from LeetCode
 |232|[Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/description/) |Easy|To Do|To Do|To Do|[Java](https://github.com/rexhbc/EveryDay-LeetCode/blob/master/leetcode-algorithms/232.%20Implement%20Queue%20using%20Stacks/Solution.java)|
 |233|[Number of Digit One](https://leetcode.com/problems/number-of-digit-one/description/) |Hard|To Do|To Do|To Do|To Do|
 |234|[Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/description/) |Easy|To Do|To Do|To Do|To Do|
-|235|[Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/description/) |Easy|To Do|To Do|To Do|To Do|
-|236|[Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/description/) |Medium|To Do|To Do|To Do|To Do|
+|235|[Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/description/) |Easy|To Do|To Do|To Do|[Java](https://github.com/rexhbc/EveryDay-LeetCode/blob/master/leetcode-algorithms/235.%20Lowest%20Common%20Ancestor%20of%20a%20Binary%20Search%20Tree/Solution.java)|
+|236|[Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/description/) |Medium|To Do|To Do|To Do|[Java](https://github.com/rexhbc/EveryDay-LeetCode/blob/master/leetcode-algorithms/236.%20Lowest%20Common%20Ancestor%20of%20a%20Binary%20Tree/Solution.java)|
 |237|[Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/description/) |Easy|To Do|To Do|To Do|To Do|
 |238|[Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/description/) |Medium|To Do|To Do|To Do|To Do|
 |239|[Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/description/) |Hard|To Do|To Do|To Do|To Do|
@@ -293,7 +293,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |295|[Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/description/) |Hard|To Do|To Do|To Do|To Do|
 |296|[Best Meeting Point](https://leetcode.com/problems/best-meeting-point/description/) :lock:|Hard|To Do|To Do|To Do|To Do|
 |297|[Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/description/) |Hard|To Do|To Do|To Do|To Do|
-|298|[Binary Tree Longest Consecutive Sequence](https://leetcode.com/problems/binary-tree-longest-consecutive-sequence/description/) :lock:|Medium|To Do|To Do|To Do|To Do|
+|298|[Binary Tree Longest Consecutive Sequence](https://leetcode.com/problems/binary-tree-longest-consecutive-sequence/description/) :lock:|Medium|To Do|To Do|To Do|[Java](https://github.com/rexhbc/EveryDay-LeetCode/blob/master/leetcode-algorithms/298.%20Binary%20Tree%20Longest%20Consecutive%20Sequence/Solution.java)|
 |299|[Bulls and Cows](https://leetcode.com/problems/bulls-and-cows/description/) |Medium|To Do|To Do|To Do|To Do|
 |300|[Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/description/) |Medium|To Do|To Do|To Do|To Do|
 |301|[Remove Invalid Parentheses](https://leetcode.com/problems/remove-invalid-parentheses/description/) |Hard|To Do|To Do|To Do|To Do|
@@ -502,7 +502,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |523|[Continuous Subarray Sum](https://leetcode.com/problems/continuous-subarray-sum/description/) |Medium|To Do|To Do|To Do|To Do|
 |524|[Longest Word in Dictionary through Deleting](https://leetcode.com/problems/longest-word-in-dictionary-through-deleting/description/) |Medium|To Do|To Do|To Do|To Do|
 |525|[Contiguous Array](https://leetcode.com/problems/contiguous-array/description/) |Medium|To Do|To Do|To Do|To Do|
-|526|[Beautiful Arrangement](https://leetcode.com/problems/beautiful-arrangement/description/) |Medium|To Do|To Do|To Do|To Do|
+|526|[Beautiful Arrangement](https://leetcode.com/problems/beautiful-arrangement/description/) |Medium|To Do|To Do|To Do|[Java](https://github.com/rexhbc/EveryDay-LeetCode/blob/master/leetcode-algorithms/526.%20Beautiful%20Arrangement/Solution.java)|
 |527|[Word Abbreviation](https://leetcode.com/problems/word-abbreviation/description/) :lock:|Hard|To Do|To Do|To Do|To Do|
 |529|[Minesweeper](https://leetcode.com/problems/minesweeper/description/) |Medium|To Do|To Do|To Do|To Do|
 |530|[Minimum Absolute Difference in BST](https://leetcode.com/problems/minimum-absolute-difference-in-bst/description/) |Easy|To Do|To Do|To Do|To Do|
@@ -523,7 +523,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |546|[Remove Boxes](https://leetcode.com/problems/remove-boxes/description/) |Hard|To Do|To Do|To Do|To Do|
 |547|[Friend Circles](https://leetcode.com/problems/friend-circles/description/) |Medium|To Do|To Do|To Do|To Do|
 |548|[Split Array with Equal Sum](https://leetcode.com/problems/split-array-with-equal-sum/description/) :lock:|Medium|To Do|To Do|To Do|To Do|
-|549|[Binary Tree Longest Consecutive Sequence II](https://leetcode.com/problems/binary-tree-longest-consecutive-sequence-ii/description/) :lock:|Medium|To Do|To Do|To Do|To Do|
+|549|[Binary Tree Longest Consecutive Sequence II](https://leetcode.com/problems/binary-tree-longest-consecutive-sequence-ii/description/) :lock:|Medium|To Do|To Do|To Do|[Java](https://github.com/rexhbc/EveryDay-LeetCode/blob/master/leetcode-algorithms/549.%20Binary%20Tree%20Longest%20Consecutive%20Sequence%20II/Solution.java)|
 |551|[Student Attendance Record I](https://leetcode.com/problems/student-attendance-record-i/description/) |Easy|To Do|To Do|To Do|To Do|
 |552|[Student Attendance Record II](https://leetcode.com/problems/student-attendance-record-ii/description/) |Hard|To Do|To Do|To Do|To Do|
 |553|[Optimal Division](https://leetcode.com/problems/optimal-division/description/) |Medium|To Do|To Do|To Do|To Do|
