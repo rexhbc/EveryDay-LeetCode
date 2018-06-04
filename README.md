@@ -1,11 +1,11 @@
 # 秋招FLAG offer全都要！
-Until 2018-06-03 20:33:45, I have solved **74** / **762** problems while **133** are still locked.
+Until 2018-06-04 15:51:55, I have solved **79** / **762** problems while **133** are still locked.
 
 Completion statistic: 
 1. JavaScript: 0 
 2. Python: 0
 3. C++: 0
-4. Java: 74
+4. Java: 79
 
 Note: :lock: means you need to buy a book from LeetCode
 
@@ -36,8 +36,8 @@ Note: :lock: means you need to buy a book from LeetCode
 |021|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/description/) |Easy|To Do|To Do|To Do|To Do|
 |022|[Generate Parentheses](https://leetcode.com/problems/generate-parentheses/description/) |Medium|To Do|To Do|To Do|[Java](https://github.com/rexhbc/EveryDay-LeetCode/blob/master/leetcode-algorithms/022.%20Generate%20Parentheses/Solution.java)|
 |023|[Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/description/) |Hard|To Do|To Do|To Do|[Java](https://github.com/rexhbc/EveryDay-LeetCode/blob/master/leetcode-algorithms/023.%20Merge%20k%20Sorted%20Lists/Solution.java)|
-|024|[Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/description/) |Medium|To Do|To Do|To Do|To Do|
-|025|[Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/description/) |Hard|To Do|To Do|To Do|To Do|
+|024|[Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/description/) |Medium|To Do|To Do|To Do|[Java](https://github.com/rexhbc/EveryDay-LeetCode/blob/master/leetcode-algorithms/024.%20Swap%20Nodes%20in%20Pairs/Solution.java)|
+|025|[Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/description/) |Hard|To Do|To Do|To Do|[Java](https://github.com/rexhbc/EveryDay-LeetCode/blob/master/leetcode-algorithms/025.%20Reverse%20Nodes%20in%20k-Group/Solution.java)|
 |026|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/) |Easy|To Do|To Do|To Do|To Do|
 |027|[Remove Element](https://leetcode.com/problems/remove-element/description/) |Easy|To Do|To Do|To Do|To Do|
 |028|[Implement strStr()](https://leetcode.com/problems/implement-strstr/description/) |Easy|To Do|To Do|To Do|To Do|
@@ -121,7 +121,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |106|[Construct Binary Tree from Inorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/description/) |Medium|To Do|To Do|To Do|To Do|
 |107|[Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/description/) |Easy|To Do|To Do|To Do|[Java](https://github.com/rexhbc/EveryDay-LeetCode/blob/master/leetcode-algorithms/107.%20Binary%20Tree%20Level%20Order%20Traversal%20II/Solution.java)|
 |108|[Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/description/) |Easy|To Do|To Do|To Do|To Do|
-|109|[Convert Sorted List to Binary Search Tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/description/) |Medium|To Do|To Do|To Do|To Do|
+|109|[Convert Sorted List to Binary Search Tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/description/) |Medium|To Do|To Do|To Do|[Java](https://github.com/rexhbc/EveryDay-LeetCode/blob/master/leetcode-algorithms/109.%20Convert%20Sorted%20List%20to%20Binary%20Search%20Tree/Solution.java)|
 |110|[Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/description/) |Easy|To Do|To Do|To Do|To Do|
 |111|[Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/description/) |Easy|To Do|To Do|To Do|To Do|
 |112|[Path Sum](https://leetcode.com/problems/path-sum/description/) |Easy|To Do|To Do|To Do|[Java](https://github.com/rexhbc/EveryDay-LeetCode/blob/master/leetcode-algorithms/112.%20Path%20Sum/Solution.java)|
@@ -172,7 +172,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |157|[Read N Characters Given Read4](https://leetcode.com/problems/read-n-characters-given-read4/description/) :lock:|Easy|To Do|To Do|To Do|To Do|
 |158|[Read N Characters Given Read4 II - Call multiple times](https://leetcode.com/problems/read-n-characters-given-read4-ii-call-multiple-times/description/) :lock:|Hard|To Do|To Do|To Do|To Do|
 |159|[Longest Substring with At Most Two Distinct Characters](https://leetcode.com/problems/longest-substring-with-at-most-two-distinct-characters/description/) :lock:|Hard|To Do|To Do|To Do|To Do|
-|160|[Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/description/) |Easy|To Do|To Do|To Do|To Do|
+|160|[Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/description/) |Easy|To Do|To Do|To Do|[Java](https://github.com/rexhbc/EveryDay-LeetCode/blob/master/leetcode-algorithms/160.%20Intersection%20of%20Two%20Linked%20Lists/Solution.java)|
 |161|[One Edit Distance](https://leetcode.com/problems/one-edit-distance/description/) :lock:|Medium|To Do|To Do|To Do|To Do|
 |162|[Find Peak Element](https://leetcode.com/problems/find-peak-element/description/) |Medium|To Do|To Do|To Do|To Do|
 |163|[Missing Ranges](https://leetcode.com/problems/missing-ranges/description/) :lock:|Medium|To Do|To Do|To Do|To Do|
@@ -230,7 +230,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |231|[Power of Two](https://leetcode.com/problems/power-of-two/description/) |Easy|To Do|To Do|To Do|[Java](https://github.com/rexhbc/EveryDay-LeetCode/blob/master/leetcode-algorithms/231.%20Power%20of%20Two/Solution.java)|
 |232|[Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/description/) |Easy|To Do|To Do|To Do|[Java](https://github.com/rexhbc/EveryDay-LeetCode/blob/master/leetcode-algorithms/232.%20Implement%20Queue%20using%20Stacks/Solution.java)|
 |233|[Number of Digit One](https://leetcode.com/problems/number-of-digit-one/description/) |Hard|To Do|To Do|To Do|To Do|
-|234|[Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/description/) |Easy|To Do|To Do|To Do|To Do|
+|234|[Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/description/) |Easy|To Do|To Do|To Do|[Java](https://github.com/rexhbc/EveryDay-LeetCode/blob/master/leetcode-algorithms/234.%20Palindrome%20Linked%20List/Solution.java)|
 |235|[Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/description/) |Easy|To Do|To Do|To Do|[Java](https://github.com/rexhbc/EveryDay-LeetCode/blob/master/leetcode-algorithms/235.%20Lowest%20Common%20Ancestor%20of%20a%20Binary%20Search%20Tree/Solution.java)|
 |236|[Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/description/) |Medium|To Do|To Do|To Do|[Java](https://github.com/rexhbc/EveryDay-LeetCode/blob/master/leetcode-algorithms/236.%20Lowest%20Common%20Ancestor%20of%20a%20Binary%20Tree/Solution.java)|
 |237|[Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/description/) |Easy|To Do|To Do|To Do|To Do|
