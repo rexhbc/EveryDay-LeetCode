@@ -1,11 +1,11 @@
 # 秋招FLAG offer全都要！
-Until 2018-05-30 18:47:21, I have solved **69** / **758** problems while **133** are still locked.
+Until 2018-06-03 20:33:45, I have solved **74** / **762** problems while **133** are still locked.
 
 Completion statistic: 
 1. JavaScript: 0 
 2. Python: 0
 3. C++: 0
-4. Java: 69
+4. Java: 74
 
 Note: :lock: means you need to buy a book from LeetCode
 
@@ -192,8 +192,8 @@ Note: :lock: means you need to buy a book from LeetCode
 |187|[Repeated DNA Sequences](https://leetcode.com/problems/repeated-dna-sequences/description/) |Medium|To Do|To Do|To Do|To Do|
 |188|[Best Time to Buy and Sell Stock IV](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/description/) |Hard|To Do|To Do|To Do|To Do|
 |189|[Rotate Array](https://leetcode.com/problems/rotate-array/description/) |Easy|To Do|To Do|To Do|To Do|
-|190|[Reverse Bits](https://leetcode.com/problems/reverse-bits/description/) |Easy|To Do|To Do|To Do|To Do|
-|191|[Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/description/) |Easy|To Do|To Do|To Do|To Do|
+|190|[Reverse Bits](https://leetcode.com/problems/reverse-bits/description/) |Easy|To Do|To Do|To Do|[Java](https://github.com/rexhbc/EveryDay-LeetCode/blob/master/leetcode-algorithms/190.%20Reverse%20Bits/Solution.java)|
+|191|[Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/description/) |Easy|To Do|To Do|To Do|[Java](https://github.com/rexhbc/EveryDay-LeetCode/blob/master/leetcode-algorithms/191.%20Number%20of%201%20Bits/Solution.java)|
 |198|[House Robber](https://leetcode.com/problems/house-robber/description/) |Easy|To Do|To Do|To Do|To Do|
 |199|[Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/description/) |Medium|To Do|To Do|To Do|To Do|
 |200|[Number of Islands](https://leetcode.com/problems/number-of-islands/description/) |Medium|To Do|To Do|To Do|[Java](https://github.com/rexhbc/EveryDay-LeetCode/blob/master/leetcode-algorithms/200.%20Number%20of%20Islands/Solution.java)|
@@ -227,7 +227,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |228|[Summary Ranges](https://leetcode.com/problems/summary-ranges/description/) |Medium|To Do|To Do|To Do|To Do|
 |229|[Majority Element II](https://leetcode.com/problems/majority-element-ii/description/) |Medium|To Do|To Do|To Do|To Do|
 |230|[Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/description/) |Medium|To Do|To Do|To Do|To Do|
-|231|[Power of Two](https://leetcode.com/problems/power-of-two/description/) |Easy|To Do|To Do|To Do|To Do|
+|231|[Power of Two](https://leetcode.com/problems/power-of-two/description/) |Easy|To Do|To Do|To Do|[Java](https://github.com/rexhbc/EveryDay-LeetCode/blob/master/leetcode-algorithms/231.%20Power%20of%20Two/Solution.java)|
 |232|[Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/description/) |Easy|To Do|To Do|To Do|[Java](https://github.com/rexhbc/EveryDay-LeetCode/blob/master/leetcode-algorithms/232.%20Implement%20Queue%20using%20Stacks/Solution.java)|
 |233|[Number of Digit One](https://leetcode.com/problems/number-of-digit-one/description/) |Hard|To Do|To Do|To Do|To Do|
 |234|[Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/description/) |Easy|To Do|To Do|To Do|To Do|
@@ -333,11 +333,11 @@ Note: :lock: means you need to buy a book from LeetCode
 |335|[Self Crossing](https://leetcode.com/problems/self-crossing/description/) |Hard|To Do|To Do|To Do|To Do|
 |336|[Palindrome Pairs](https://leetcode.com/problems/palindrome-pairs/description/) |Hard|To Do|To Do|To Do|To Do|
 |337|[House Robber III](https://leetcode.com/problems/house-robber-iii/description/) |Medium|To Do|To Do|To Do|To Do|
-|338|[Counting Bits](https://leetcode.com/problems/counting-bits/description/) |Medium|To Do|To Do|To Do|To Do|
+|338|[Counting Bits](https://leetcode.com/problems/counting-bits/description/) |Medium|To Do|To Do|To Do|[Java](https://github.com/rexhbc/EveryDay-LeetCode/blob/master/leetcode-algorithms/338.%20Counting%20Bits/Solution.java)|
 |339|[Nested List Weight Sum](https://leetcode.com/problems/nested-list-weight-sum/description/) :lock:|Easy|To Do|To Do|To Do|To Do|
 |340|[Longest Substring with At Most K Distinct Characters](https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters/description/) :lock:|Hard|To Do|To Do|To Do|To Do|
 |341|[Flatten Nested List Iterator](https://leetcode.com/problems/flatten-nested-list-iterator/description/) |Medium|To Do|To Do|To Do|To Do|
-|342|[Power of Four](https://leetcode.com/problems/power-of-four/description/) |Easy|To Do|To Do|To Do|To Do|
+|342|[Power of Four](https://leetcode.com/problems/power-of-four/description/) |Easy|To Do|To Do|To Do|[Java](https://github.com/rexhbc/EveryDay-LeetCode/blob/master/leetcode-algorithms/342.%20Power%20of%20Four/Solution.java)|
 |343|[Integer Break](https://leetcode.com/problems/integer-break/description/) |Medium|To Do|To Do|To Do|To Do|
 |344|[Reverse String](https://leetcode.com/problems/reverse-string/description/) |Easy|To Do|To Do|To Do|To Do|
 |345|[Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/description/) |Easy|To Do|To Do|To Do|To Do|
@@ -771,3 +771,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |841|[Keys and Rooms](https://leetcode.com/problems/keys-and-rooms/description/) |Medium|To Do|To Do|To Do|To Do|
 |842|[Split Array into Fibonacci Sequence](https://leetcode.com/problems/split-array-into-fibonacci-sequence/description/) |Medium|To Do|To Do|To Do|To Do|
 |843|[Guess the Word](https://leetcode.com/problems/guess-the-word/description/) |Hard|To Do|To Do|To Do|To Do|
+|844|[Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/description/) |Easy|To Do|To Do|To Do|To Do|
+|845|[Longest Mountain in Array](https://leetcode.com/problems/longest-mountain-in-array/description/) |Medium|To Do|To Do|To Do|To Do|
+|846|[Hand of Straights](https://leetcode.com/problems/hand-of-straights/description/) |Medium|To Do|To Do|To Do|To Do|
+|847|[Shortest Path Visiting All Nodes](https://leetcode.com/problems/shortest-path-visiting-all-nodes/description/) |Hard|To Do|To Do|To Do|To Do|
