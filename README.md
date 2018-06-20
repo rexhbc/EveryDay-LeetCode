@@ -1,11 +1,11 @@
 # 秋招FLAG offer全都要！
-Until 2018-06-19 22:37:23, I have solved **88** / **770** problems while **133** are still locked.
+Until 2018-06-20 10:40:52, I have solved **90** / **770** problems while **133** are still locked.
 
 Completion statistic: 
 1. JavaScript: 0 
 2. Python: 0
 3. C++: 0
-4. Java: 88
+4. Java: 90
 
 Note: :lock: means you need to buy a book from LeetCode
 
@@ -43,7 +43,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |028|[Implement strStr()](https://leetcode.com/problems/implement-strstr/description/) |Easy|To Do|To Do|To Do|To Do|
 |029|[Divide Two Integers](https://leetcode.com/problems/divide-two-integers/description/) |Medium|To Do|To Do|To Do|To Do|
 |030|[Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words/description/) |Hard|To Do|To Do|To Do|To Do|
-|031|[Next Permutation](https://leetcode.com/problems/next-permutation/description/) |Medium|To Do|To Do|To Do|To Do|
+|031|[Next Permutation](https://leetcode.com/problems/next-permutation/description/) |Medium|To Do|To Do|To Do|[Java](https://github.com/rexhbc/EveryDay-LeetCode/blob/master/leetcode-algorithms/031.%20Next%20Permutation/Solution.java)|
 |032|[Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/description/) |Hard|To Do|To Do|To Do|To Do|
 |033|[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/description/) |Medium|To Do|To Do|To Do|To Do|
 |034|[Search for a Range](https://leetcode.com/problems/search-for-a-range/description/) |Medium|To Do|To Do|To Do|To Do|
@@ -89,7 +89,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |074|[Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/description/) |Medium|To Do|To Do|To Do|To Do|
 |075|[Sort Colors](https://leetcode.com/problems/sort-colors/description/) |Medium|To Do|To Do|To Do|To Do|
 |076|[Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/description/) |Hard|To Do|To Do|To Do|To Do|
-|077|[Combinations](https://leetcode.com/problems/combinations/description/) |Medium|To Do|To Do|To Do|To Do|
+|077|[Combinations](https://leetcode.com/problems/combinations/description/) |Medium|To Do|To Do|To Do|[Java](https://github.com/rexhbc/EveryDay-LeetCode/blob/master/leetcode-algorithms/077.%20Combinations/Solution.java)|
 |078|[Subsets](https://leetcode.com/problems/subsets/description/) |Medium|To Do|To Do|To Do|[Java](https://github.com/rexhbc/EveryDay-LeetCode/blob/master/leetcode-algorithms/078.%20Subsets/Solution.java)|
 |079|[Word Search](https://leetcode.com/problems/word-search/description/) |Medium|To Do|To Do|To Do|To Do|
 |080|[Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/description/) |Medium|To Do|To Do|To Do|To Do|
