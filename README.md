@@ -1,11 +1,11 @@
 # 秋招FLAG offer全都要！
-Until 2018-06-04 15:51:55, I have solved **79** / **762** problems while **133** are still locked.
+Until 2018-06-19 22:37:23, I have solved **88** / **770** problems while **133** are still locked.
 
 Completion statistic: 
 1. JavaScript: 0 
 2. Python: 0
 3. C++: 0
-4. Java: 79
+4. Java: 88
 
 Note: :lock: means you need to buy a book from LeetCode
 
@@ -29,7 +29,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |014|[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/description/) |Easy|To Do|To Do|To Do|To Do|
 |015|[3Sum](https://leetcode.com/problems/3sum/description/) |Medium|To Do|To Do|To Do|[Java](https://github.com/rexhbc/EveryDay-LeetCode/blob/master/leetcode-algorithms/015.%203Sum/Solution.java)|
 |016|[3Sum Closest](https://leetcode.com/problems/3sum-closest/description/) |Medium|To Do|To Do|To Do|To Do|
-|017|[Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/description/) |Medium|To Do|To Do|To Do|To Do|
+|017|[Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/description/) |Medium|To Do|To Do|To Do|[Java](https://github.com/rexhbc/EveryDay-LeetCode/blob/master/leetcode-algorithms/017.%20Letter%20Combinations%20of%20a%20Phone%20Number/Solution.java)|
 |018|[4Sum](https://leetcode.com/problems/4sum/description/) |Medium|To Do|To Do|To Do|[Java](https://github.com/rexhbc/EveryDay-LeetCode/blob/master/leetcode-algorithms/018.%204Sum/Solution.java)|
 |019|[Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/) |Medium|To Do|To Do|To Do|[Java](https://github.com/rexhbc/EveryDay-LeetCode/blob/master/leetcode-algorithms/019.%20Remove%20Nth%20Node%20From%20End%20of%20List/Solution.java)|
 |020|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/description/) |Easy|To Do|To Do|To Do|To Do|
@@ -58,7 +58,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |043|[Multiply Strings](https://leetcode.com/problems/multiply-strings/description/) |Medium|To Do|To Do|To Do|To Do|
 |044|[Wildcard Matching](https://leetcode.com/problems/wildcard-matching/description/) |Hard|To Do|To Do|To Do|To Do|
 |045|[Jump Game II](https://leetcode.com/problems/jump-game-ii/description/) |Hard|To Do|To Do|To Do|To Do|
-|046|[Permutations](https://leetcode.com/problems/permutations/description/) |Medium|To Do|To Do|To Do|To Do|
+|046|[Permutations](https://leetcode.com/problems/permutations/description/) |Medium|To Do|To Do|To Do|[Java](https://github.com/rexhbc/EveryDay-LeetCode/blob/master/leetcode-algorithms/046.%20Permutations/Solution.java)|
 |047|[Permutations II](https://leetcode.com/problems/permutations-ii/description/) |Medium|To Do|To Do|To Do|[Java](https://github.com/rexhbc/EveryDay-LeetCode/blob/master/leetcode-algorithms/047.%20Permutations%20II/Solution.java)|
 |048|[Rotate Image](https://leetcode.com/problems/rotate-image/description/) |Medium|To Do|To Do|To Do|To Do|
 |049|[Group Anagrams](https://leetcode.com/problems/group-anagrams/description/) |Medium|To Do|To Do|To Do|To Do|
@@ -90,7 +90,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |075|[Sort Colors](https://leetcode.com/problems/sort-colors/description/) |Medium|To Do|To Do|To Do|To Do|
 |076|[Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/description/) |Hard|To Do|To Do|To Do|To Do|
 |077|[Combinations](https://leetcode.com/problems/combinations/description/) |Medium|To Do|To Do|To Do|To Do|
-|078|[Subsets](https://leetcode.com/problems/subsets/description/) |Medium|To Do|To Do|To Do|To Do|
+|078|[Subsets](https://leetcode.com/problems/subsets/description/) |Medium|To Do|To Do|To Do|[Java](https://github.com/rexhbc/EveryDay-LeetCode/blob/master/leetcode-algorithms/078.%20Subsets/Solution.java)|
 |079|[Word Search](https://leetcode.com/problems/word-search/description/) |Medium|To Do|To Do|To Do|To Do|
 |080|[Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/description/) |Medium|To Do|To Do|To Do|To Do|
 |081|[Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/description/) |Medium|To Do|To Do|To Do|To Do|
@@ -102,7 +102,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |087|[Scramble String](https://leetcode.com/problems/scramble-string/description/) |Hard|To Do|To Do|To Do|To Do|
 |088|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/description/) |Easy|To Do|To Do|To Do|To Do|
 |089|[Gray Code](https://leetcode.com/problems/gray-code/description/) |Medium|To Do|To Do|To Do|To Do|
-|090|[Subsets II](https://leetcode.com/problems/subsets-ii/description/) |Medium|To Do|To Do|To Do|To Do|
+|090|[Subsets II](https://leetcode.com/problems/subsets-ii/description/) |Medium|To Do|To Do|To Do|[Java](https://github.com/rexhbc/EveryDay-LeetCode/blob/master/leetcode-algorithms/090.%20Subsets%20II/Solution.java)|
 |091|[Decode Ways](https://leetcode.com/problems/decode-ways/description/) |Medium|To Do|To Do|To Do|To Do|
 |092|[Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/description/) |Medium|To Do|To Do|To Do|To Do|
 |093|[Restore IP Addresses](https://leetcode.com/problems/restore-ip-addresses/description/) |Medium|To Do|To Do|To Do|To Do|
@@ -417,7 +417,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |419|[Battleships in a Board](https://leetcode.com/problems/battleships-in-a-board/description/) |Medium|To Do|To Do|To Do|To Do|
 |420|[Strong Password Checker](https://leetcode.com/problems/strong-password-checker/description/) |Hard|To Do|To Do|To Do|To Do|
 |421|[Maximum XOR of Two Numbers in an Array](https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array/description/) |Medium|To Do|To Do|To Do|To Do|
-|422|[Valid Word Square](https://leetcode.com/problems/valid-word-square/description/) :lock:|Easy|To Do|To Do|To Do|To Do|
+|422|[Valid Word Square](https://leetcode.com/problems/valid-word-square/description/) :lock:|Easy|To Do|To Do|To Do|[Java](https://github.com/rexhbc/EveryDay-LeetCode/blob/master/leetcode-algorithms/422.%20Valid%20Word%20Square/Solution.java)|
 |423|[Reconstruct Original Digits from English](https://leetcode.com/problems/reconstruct-original-digits-from-english/description/) |Medium|To Do|To Do|To Do|To Do|
 |424|[Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/description/) |Medium|To Do|To Do|To Do|To Do|
 |425|[Word Squares](https://leetcode.com/problems/word-squares/description/) :lock:|Hard|To Do|To Do|To Do|To Do|
@@ -469,7 +469,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |482|[License Key Formatting](https://leetcode.com/problems/license-key-formatting/description/) |Easy|To Do|To Do|To Do|To Do|
 |483|[Smallest Good Base](https://leetcode.com/problems/smallest-good-base/description/) |Hard|To Do|To Do|To Do|To Do|
 |484|[Find Permutation](https://leetcode.com/problems/find-permutation/description/) :lock:|Medium|To Do|To Do|To Do|To Do|
-|485|[Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/description/) |Easy|To Do|To Do|To Do|To Do|
+|485|[Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/description/) |Easy|To Do|To Do|To Do|[Java](https://github.com/rexhbc/EveryDay-LeetCode/blob/master/leetcode-algorithms/485.%20Max%20Consecutive%20Ones/Solution.java)|
 |486|[Predict the Winner](https://leetcode.com/problems/predict-the-winner/description/) |Medium|To Do|To Do|To Do|To Do|
 |487|[Max Consecutive Ones II](https://leetcode.com/problems/max-consecutive-ones-ii/description/) :lock:|Medium|To Do|To Do|To Do|To Do|
 |488|[Zuma Game](https://leetcode.com/problems/zuma-game/description/) |Hard|To Do|To Do|To Do|To Do|
@@ -537,7 +537,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |563|[Binary Tree Tilt](https://leetcode.com/problems/binary-tree-tilt/description/) |Easy|To Do|To Do|To Do|To Do|
 |564|[Find the Closest Palindrome](https://leetcode.com/problems/find-the-closest-palindrome/description/) |Hard|To Do|To Do|To Do|To Do|
 |565|[Array Nesting](https://leetcode.com/problems/array-nesting/description/) |Medium|To Do|To Do|To Do|To Do|
-|566|[Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix/description/) |Easy|To Do|To Do|To Do|To Do|
+|566|[Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix/description/) |Easy|To Do|To Do|To Do|[Java](https://github.com/rexhbc/EveryDay-LeetCode/blob/master/leetcode-algorithms/566.%20Reshape%20the%20Matrix/Solution.java)|
 |567|[Permutation in String](https://leetcode.com/problems/permutation-in-string/description/) |Medium|To Do|To Do|To Do|To Do|
 |568|[Maximum Vacation Days](https://leetcode.com/problems/maximum-vacation-days/description/) :lock:|Hard|To Do|To Do|To Do|To Do|
 |572|[Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/description/) |Easy|To Do|To Do|To Do|To Do|
@@ -693,7 +693,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |763|[Partition Labels](https://leetcode.com/problems/partition-labels/description/) |Medium|To Do|To Do|To Do|To Do|
 |764|[Largest Plus Sign](https://leetcode.com/problems/largest-plus-sign/description/) |Medium|To Do|To Do|To Do|To Do|
 |765|[Couples Holding Hands](https://leetcode.com/problems/couples-holding-hands/description/) |Hard|To Do|To Do|To Do|To Do|
-|766|[Toeplitz Matrix](https://leetcode.com/problems/toeplitz-matrix/description/) |Easy|To Do|To Do|To Do|To Do|
+|766|[Toeplitz Matrix](https://leetcode.com/problems/toeplitz-matrix/description/) |Easy|To Do|To Do|To Do|[Java](https://github.com/rexhbc/EveryDay-LeetCode/blob/master/leetcode-algorithms/766.%20Toeplitz%20Matrix/Solution.java)|
 |767|[Reorganize String](https://leetcode.com/problems/reorganize-string/description/) |Medium|To Do|To Do|To Do|To Do|
 |768|[Max Chunks To Make Sorted II](https://leetcode.com/problems/max-chunks-to-make-sorted-ii/description/) |Hard|To Do|To Do|To Do|To Do|
 |769|[Max Chunks To Make Sorted](https://leetcode.com/problems/max-chunks-to-make-sorted/description/) |Medium|To Do|To Do|To Do|To Do|
@@ -759,7 +759,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |829|[Consecutive Numbers Sum](https://leetcode.com/problems/consecutive-numbers-sum/description/) |Medium|To Do|To Do|To Do|To Do|
 |830|[Positions of Large Groups](https://leetcode.com/problems/positions-of-large-groups/description/) |Easy|To Do|To Do|To Do|To Do|
 |831|[Masking Personal Information](https://leetcode.com/problems/masking-personal-information/description/) |Medium|To Do|To Do|To Do|To Do|
-|832|[Flipping an Image](https://leetcode.com/problems/flipping-an-image/description/) |Easy|To Do|To Do|To Do|To Do|
+|832|[Flipping an Image](https://leetcode.com/problems/flipping-an-image/description/) |Easy|To Do|To Do|To Do|[Java](https://github.com/rexhbc/EveryDay-LeetCode/blob/master/leetcode-algorithms/832.%20Flipping%20an%20Image/Solution.java)|
 |833|[Find And Replace in String](https://leetcode.com/problems/find-and-replace-in-string/description/) |Medium|To Do|To Do|To Do|To Do|
 |834|[Sum of Distances in Tree](https://leetcode.com/problems/sum-of-distances-in-tree/description/) |Hard|To Do|To Do|To Do|To Do|
 |835|[Image Overlap](https://leetcode.com/problems/image-overlap/description/) |Medium|To Do|To Do|To Do|To Do|
@@ -775,3 +775,11 @@ Note: :lock: means you need to buy a book from LeetCode
 |845|[Longest Mountain in Array](https://leetcode.com/problems/longest-mountain-in-array/description/) |Medium|To Do|To Do|To Do|To Do|
 |846|[Hand of Straights](https://leetcode.com/problems/hand-of-straights/description/) |Medium|To Do|To Do|To Do|To Do|
 |847|[Shortest Path Visiting All Nodes](https://leetcode.com/problems/shortest-path-visiting-all-nodes/description/) |Hard|To Do|To Do|To Do|To Do|
+|848|[Shifting Letters](https://leetcode.com/problems/shifting-letters/description/) |Medium|To Do|To Do|To Do|To Do|
+|849|[Maximize Distance to Closest Person](https://leetcode.com/problems/maximize-distance-to-closest-person/description/) |Easy|To Do|To Do|To Do|To Do|
+|850|[Rectangle Area II](https://leetcode.com/problems/rectangle-area-ii/description/) |Hard|To Do|To Do|To Do|To Do|
+|851|[Loud and Rich](https://leetcode.com/problems/loud-and-rich/description/) |Medium|To Do|To Do|To Do|To Do|
+|852|[Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/description/) |Easy|To Do|To Do|To Do|To Do|
+|853|[Car Fleet](https://leetcode.com/problems/car-fleet/description/) |Medium|To Do|To Do|To Do|To Do|
+|854|[K-Similar Strings](https://leetcode.com/problems/k-similar-strings/description/) |Hard|To Do|To Do|To Do|To Do|
+|855|[Exam Room](https://leetcode.com/problems/exam-room/description/) |Medium|To Do|To Do|To Do|To Do|
