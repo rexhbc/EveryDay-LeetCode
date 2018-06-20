@@ -6,6 +6,7 @@
 class Solution {
     public List<List<Integer>> combine(int n, int k) {
         List<List<Integer>> result = new ArrayList<>();
+        List<Integer> cur = new ArrayList<>();
         DFS(result, cur, 1, n, k);
         return result;
     }
