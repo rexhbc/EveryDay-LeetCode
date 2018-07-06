@@ -25,6 +25,7 @@ class Solution {
                 }
             }
         }
+        
         int result = 0;
         while (!stack.isEmpty()){
             result += stack.pollFirst();
